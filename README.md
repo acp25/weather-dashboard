@@ -14,3 +14,7 @@ THEN I am again presented with current and future conditions for that city
 
 PURPOSE OF THIS SITE
 The purpose of this site is to help me with learning and understanding more about Server-Side APIs. The site allows you to search the weather in a particular city.
+
+
+Languages Used 
+HTML, CSS and JavaScript
