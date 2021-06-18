@@ -21,6 +21,8 @@ HTML, CSS and JavaScript
 
 
 ![weatherdash](https://user-images.githubusercontent.com/60405505/122145873-0b614280-ce24-11eb-9f50-e962d5059192.PNG)
+![image](https://user-images.githubusercontent.com/60405505/122618907-397d9700-d05d-11eb-896c-0dd537210ac6.png)
+
 
 Links: https://acp25.github.io/weather-dashboard/
 
