@@ -51,3 +51,5 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 # Contributions
+
+This project is not accepting contributions at this time. 
